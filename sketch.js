@@ -1,5 +1,5 @@
 const inchPxRatio = 3
-const turnTime = 8000
+const turnTime = 5000
 
 function inchesToPx(inches) {
   return inches * inchPxRatio
